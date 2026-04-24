@@ -25,7 +25,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "8639482529:AAHLEXpIudvpHU5Ae5bgzEtkUaPD
 
 # ID чата, куда бот будет отправлять месячный отчёт (ваш личный чат или отдельный чат)
 # Получите свой ID: напишите @userinfobot в Telegram
-REPORT_CHAT_ID = os.environ.get("REPORT_CHAT_ID", "5010509877
+REPORT_CHAT_ID = os.environ.get("REPORT_CHAT_ID", "5010509877"
 ")
 
 DB_FILE = "calls.db"
